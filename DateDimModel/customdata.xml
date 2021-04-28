@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bmtcustomdata><namespace name="visuals"><object name="[]"><property name="BMTFW_Layout_Version">long:40</property><property name="BMTFW_Layout"><![CDATA[string:[Import layer].[DateDim]
+	dx=121,208
+	expanded=t
+	parent=Import layer
+	x=431,10
+[Import layer].[Emp_By_Month]
+	dx=201,208
+	expanded=t
+	parent=Import layer
+	x=145,59
+[Import layer].[Employee_Benefit]
+	dx=192,208
+	expanded=t
+	parent=Import layer
+	x=475,279
+[Import layer].[Rpt_Security]
+	dx=153,100
+	expanded=t
+	parent=Import layer
+	x=72,338
+[Import layer]
+	c=9bdfc4
+	dx=670,560
+	expanded=t
+	parent=DD_DB
+	view=0,0
+	x=11,17
+	zoom=1.000000
+[Relational]
+	c=89c6fd
+	dx=110,37
+	expanded=t
+	parent=development layer
+	view=0,0
+	x=434,42
+	zoom=1.000000
+[Dimensions].[Benefits Dimension]
+	dx=200,155
+	expanded=t
+	parent=Dimensions
+	x=234,30
+[Dimensions].[Benefit Measures]
+	dx=184,172
+	expanded=t
+	parent=Dimensions
+	x=10,203
+[Dimensions].[Date Dimension]
+	dx=174,119
+	expanded=t
+	parent=Dimensions
+	x=234,212
+[Dimensions].[Organizational Dimension]
+	dx=246,191
+	expanded=t
+	parent=Dimensions
+	x=234,358
+[Dimensions]
+	view=0,0
+	zoom=1.000000
+[development layer]
+	c=d8a77d
+	dx=554,89
+	expanded=t
+	parent=DD_DB
+	x=50,440
+[DD_DB]
+	view=0,91
+	zoom=1.000000
+[]
+	Notation=4
+	ShowGrid=1
+	Snap=1
+	font=Arial
+	lod=33
+	tc=323232
+	viewStyle=2
+]]></property></object></namespace></bmtcustomdata>
